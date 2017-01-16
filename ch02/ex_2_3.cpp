@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/*
+ * Create a program that opens a file 
+ *  and counts the whitespace-separated words in that file.
+ */
 int main() {
     ifstream in("ex_2_3.cpp");
     string word;
